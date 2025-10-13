@@ -6,15 +6,6 @@
 - features -> inputs
 - targets -> results
 
-- Linear Regression
-    - Predicts a value, given a value
-    - Cost Function -> calculates variance between model and targets
-
-- Gradient Descent - An algorithm for minimizing the cost function.
-
-- Logistic Regression
-    - Predicts a label / category
-
 ### Traditional Programming vs ML
 1. Traditional
 input -> code -> output
@@ -35,8 +26,7 @@ input (feature) -> model (function) -> output (target)
 3. Reinforcement Learning
     - involves reward loop
 
-
-## Applications
+### Applications
 - recommendation feeds
 - self-driving
 - photo identification
@@ -52,3 +42,8 @@ Underfitting versus overfitting
 - logistic regression
 - cost / loss function
 - gradient descent
+
+- Linear Regression: Predicts a value, given a value
+    - Cost Function -> calculates variance between model and targets
+- Logistic Regression: Predicts a label / category
+- Gradient Descent - An algorithm for minimizing the cost function.
