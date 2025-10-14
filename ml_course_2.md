@@ -1,4 +1,4 @@
-## Course 2: Advanced Learning Algorithm
+## Course 2: Advanced Learning Algorithms
 - neural networks
 
 ## Neural Networks
@@ -33,3 +33,9 @@ Multi-label: a feature can have multiple labels
 - Why not use Sigmoid?
 - If neural networks can be used to classify things, how does this differ from Deep Learning
 - When should you use Relu vs Softmax in the output layer?
+
+### Other topics
+#### Computation Graphs
+- show how cost is computed step by step
+- backprop is an efficient way to compute derivatives
+    - Why? Efficient for computers?
